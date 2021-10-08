@@ -1,0 +1,22 @@
+current ROC =  0.5001790189760115
+ current F1 =  0.0
+ current Precision =  0
+ current Recall = 0.0
+ accuracy = 0.5
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.5_with_with_p_0.01_q_0.01_1.txt-------
+Average ROC =  0.5001790189760115
+ Average F1 =  0.0 
+ Average Precision =  0.0 
+ Average Recall = 0.0 
+current ROC =  0.5003580379520229
+ current F1 =  0.0
+ current Precision =  0
+ current Recall = 0.0
+ accuracy = 0.5
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.5_with_with_p_0.01_q_0.1_2.txt-------
+Average ROC =  0.5003580379520229
+ Average F1 =  0.0 
+ Average Precision =  0.0 
+ Average Recall = 0.0 

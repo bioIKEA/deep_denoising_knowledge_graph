@@ -1,0 +1,350 @@
+F	"{'insulin-like growth factor-1', 'Insulin-like Growth Factor-1', 'IGF-1'}"	"{'E64', 'E-64'}"
+F	"{'mISG15', 'ISG15'}"	"{'Carbon', 'carbon', 'C'}"
+T	"{'TH2', 'Th2'}"	"{'Chol', 'Cholesterol', 'cholesterol'}"
+F	"{'Cxcl1', 'CXCL1'}"	"{'water', 'Water'}"
+T	{'CD11c'}	{'PEI'}
+T	"{'ATG16L1', 'Atg16L1'}"	"{'GLU', 'dextrose', 'glucose', 'Glucose'}"
+F	{'MHC class I antigen'}	{'mevalonic acid'}
+U	{'IgG2a'}	"{'poly-(A)', 'poly A', 'poly', 'poly(A)', 'poly-A', ""poly(A)-3'"", '""3\'-poly(A)""', ""N-3'-UTR-poly(A)"", 'polyA', 'Poly(A)', 'Poly'}"
+T	{'PBS'}	"{'luciferin', 'D-Luciferin'}"
+U	"{'MIP-1a', 'CCL-3', 'MIP1A', 'macrophage inflammatory protein 1 alpha', 'MIP1A/B', 'MIP-1A', 'macrophage Inflammatory protein 1alpha', 'macrophage inflammatory protein 1A', 'MIP1beta', 'MIP1-alpha', 'macrophage inflammatory protein-1alpha', 'Ccl3', 'MIP1a', 'CCL3', 'MIP1alpha', 'macrophage inflammatory protein (MIP)1A', 'macrophage inflammatory protein 1-alpha', 'MIP-1beta', 'macrophage inflammatory protein (MIP)-1A', 'macrophage inflammatory protein (MIP)-1alpha', 'MIP1-a', 'MIP-1alpha', 'macrophage inflammatory protein-1A', 'macrophage inflammatory protein 1alpha'}"	"{""F5'-ACG CAA TCT""}"
+T	"{'Th-1', 'TH1', 'Th1'}"	{'poly I'}
+T	{'RPA'}	{'sulfur'}
+F	"{'MAS1', 'Mas1', 'angiotensin 1-7 receptor'}"	"{'Nitric Oxide', 'nitric-oxide', 'nitric oxide', 'Nitric oxide'}"
+F	{'ORF2'}	{'HBeAg'}
+F	{'ULK1'}	"{'hydroxyl', 'hydroxyl radicals', 'hydroxyl radical'}"
+T	{'IRF'}	"{'IFITM-3', 'IFITM-2', 'sulfate  IFITM Interferon'}"
+T	"{'IL4', 'Interleukin-4', 'IL-4', 'interleukin-4', 'interleukin (IL)-4'}"	"{'L-serine', 'Serine', 'serines', 'serine'}"
+F	{'IL-18'}	"{'peroxynitrites', 'peroxynitrite'}"
+T	{'DDX3'}	"{'Ketorolac', 'ketorolac'}"
+F	"{'C3bBb) C3', 'CCL14'}"	"{'TYR', 'tyrosine', 'Tyr'}"
+U	"{'Nsp', 'NSP5', 'nsp5', 'NSP', 'nsp'}"	{'AC'}
+T	"{'ANG II', 'angiotensin II'}"	{'fosinopril'}
+T	{'CEA'}	{'biotin'}
+T	{'IgG'}	"{'Oseltamivir phosphate', 'Oseltamivir', 'oseltamivir phosphate', 'oseltamivir', 'Tamiflu'}"
+T	"{'high mobility group box)-1', 'HMGB-1', 'HMGB1', 'high-mobility group box 1', 'high mobility group box chromosomal protein-1'}"	"{'Glutamine', 'glutamine'}"
+T	"{'focal adhesion kinase 1', 'FAK1'}"	"{'Chol', 'Cholesterol', 'cholesterol'}"
+T	"{'CD45RA-CCR7', 'CCR7'}"	"{'PGs', 'prostaglandins', 'Prostanoids', 'Prostaglandins', 'prostanoids', 'prostaglandin'}"
+F	"{'EndoU', 'p 11', 'uridylate-specific endoribonuclease', 'endoU'}"	"{'amides', 'Amides', 'amide', 'amide I'}"
+F	"{'programmed death-ligand 1', 'CD274', 'PD(L)1', 'PD-L1'}"	"{'EU371564', 'EU303233', 'EU303216 POWV', 'EU789374-EU789390', 'EU111742', '""62116 EU303221""', 'EU545988', 'EU789391-EU789395', 'EU303234', 'EU303214 NMPV', 'EU303223', 'EU743920', 'EU789368-EU789373', 'EU303235', 'EU303241', 'EU076704', 'EU303215', 'EU789367', 'EU082213', 'EU984237', 'EU918736', 'EU787450', 'EU743927', 'EU303188'}"
+F	{'CD11b'}	"{'""2780 KR003452""', '""2780 NGS""'}"
+F	"{'C3', 'complement c3', 'C3a', 'C3a anaphylatoxin', 'complement C3', 'C3 and C7', 'complement 3'}"	"{'""2\'-hydroxy""'}"
+F	"{'IL-4', 'IL4'}"	"{'N', 'Nitrogen', 'nitrogen'}"
+T	"{'mTor', 'mTOR', 'mammalian target of rapamycin', 'mammalian target-of-rapamycin', 'mechanistic target of rapamycin'}"	"{'Saikosaponins', 'Saikosaponin B', 'Saikosaponin D', 'saikosaponin B', 'Saikosaponin A'}"
+T	{'IFITM3'}	"{'lanes', '""2011ZX09302-006-01-03(5)""'}"
+F	{'Pinto'}	{'Asp'}
+U	{'BDNF'}	{'phosphate'}
+T	"{'Insulin-like growth factor-1 receptor', 'IGF-1R'}"	"{'steroids', 'Steroids', 'steroid', 'Steroid'}"
+T	{'p 1'}	{'Tyr'}
+T	"{'Cdc42', 'CDC42'}"	"{'gamma-aminobutyric acid', 'Gamma aminobutyric acid', 'GABA'}"
+U	"{'Neuraminidase', 'NA', 'neuraminidase'}"	"{'KT323979', 'KT946839', 'KT021232', 'KT374052-374055', 'KT021228', 'KT364339'}"
+F	"{'mTor', 'mTOR', 'mammalian target of rapamycin', 'mammalian target-of-rapamycin', 'mechanistic target of rapamycin'}"	"{'Tinzaparin', 'tinzaparin'}"
+T	"{'CD8', 'CD8A'}"	{'ionomycin'}
+U	"{'Chromogranin-A', 'SPI', 'CGA'}"	"{'CAA A', 'CAA36601', 'CAA'}"
+T	"{'toll', 'TLR-4', 'Toll-like receptor 4', 'TLR4', 'Toll'}"	{'adenine'}
+F	{'HRI'}	"{'proline', 'L-proline'}"
+U	"{'IL-4', 'IL4'}"	"{'NaHCO3', 'sodium bicarbonate'}"
+U	{'TRADD'}	"{'carbohydrates', 'carbohydrate', 'Carbohydrate'}"
+U	{'myosin'}	"{'SSO2121', 'SSO225', 'SSO2071', 'SSO0192'}"
+U	"{'IgG', 'IgG1'}"	{'sulfuric acid'}
+T	{'mTORC1'}	"{'""17-DMAG""'}"
+F	"{'CASP3', 'caspase-3', 'caspase 3'}"	"{'""<60 F""', 'VP60', '""55 C-60 C""', '""60 C""', 'O 60', 'S60'}"
+T	"{'FcgammaRI', 'FcgammaR', 'Fc-gamma-receptor'}"	"{'lipid', 'lipids', 'Lipid', 'Lipids'}"
+T	{'nsp4'}	"{'DTT', 'dithiothreitol'}"
+U	"{'P23', 'p23', 'P25'}"	{'oleanolic acid'}
+T	"{'NCL', 'nucleolin'}"	"{'lanes', '""2011ZX09302-006-01-03(5)""'}"
+U	"{'angiotensin-converting enzyme 2 receptors', 'Angiotensin converting enzyme)-2', 'Angiotensin-Converting Enzyme 2', 'Angiotensin Converting Enzyme (ACE)2', ""angiotensin-converting enzyme 2'"", 'Angiotensin Converting Enzyme 2', 'angiotensin- converting enzyme 2', 'ACE2', 'angiotensin-converting-enzyme-2', 'angiotensin-converting enzyme-2', 'angiotensin-converting Enzyme 2', 'ACE2) has been', 'angiotensin-converting enzyme (ACE)-2', 'ACE 2', 'angiotensin I converting enzyme 2', 'hACE2/293T', 'angiotension-converting enzyme 2', 'angiotensin converting enzyme 2', 'Angiotensin-converting enzyme-2', 'Angiotensin-Converting enzyme 2', 'Angiotensin converting enzyme-2', 'angiotensin-converting-enzyme 2', 'Angiotensin converting enzymes 2', 'Angiotensin Converting Enzyme-2', 'ace2', 'angiotensin-conversion enzyme 2', 'Angiotensin converting enzyme (ACE) 2', 'Angiotensin-converting enzyme (ACE) 2', 'Angiotensin-converting-enzyme 2', 'angiotensin-converting enzyme2', 'hACE-2', 'angiotensin converting enzyme (ACE) 2', 'Ace2', 'angiotensin-converting enzyme (ACE) 2', 'Angiotensin-converting enzyme 2', ""Angiotensin Converting Enzyme-2'"", 'Angiotensin I converting enzyme 2', 'Angiotensin-Converting Enzyme (ACE) 2', 'hACE2', 'angiotensin-converting enzyme 2', 'angiotensin', 'Angiotensin-I Converting Enzyme-2', 'angiotensin converting enzyme-2', 'Angiotensin converting enzyme 2', 'ACE)2', 'Angiotensin-converting Enzyme 2', 'ACE-2'}"	"{'Neu5Ac', 'Neu59Ac2'}"
+T	{'MMP2'}	{'PAH'}
+T	"{'beta ', 'a', 'alpha- beta-', 'pN2', 'amyloid precursor protein', 'A', 'a beta', 'alpha/beta', 'aminopeptidase-P'}"	"{'gamma-PGA', 'Poly-gamma-glutamic acid'}"
+F	"{'TGF- beta1', 'transforming growth factor-beta1', 'TGF-beta1', 'Transforming growth factor beta-1', 'TGFbeta1', 'Transforming growth factor beta1', 'TGF-b', 'TGF-beta(1', 'TGF-B', 'TGFB1'}"	"{'Fragmin', 'dalteparin', 'Fragmine', 'Dalteparin', 'Tedelparin', 'Dalteparin Sodium'}"
+T	{'COPD'}	"{'Mannose', 'mannose'}"
+T	"{'AngII', 'angiotensin II', 'Angiotensin-I', 'Ang II', 'ANGII', 'Ang-II', 'Angiotensinogen', 'AngI', 'angiotensin I and II', 'Angiotensin (Ang) II', 'angiotensin-II', 'AT-II', 'Ang(Angiotensin) II', 'AGT', 'Angiotensin II', 'angiotensin (Ang) II', 'angiotensin I and angiotensin II', 'Angiotensin I', 'angiotensin I', 'Angiotensin-II', 'angiotensin) I and II', 'angiotensinogen', 'Ang I', 'angiotensin', 'angiotensin-I', 'ANG II', 'AT'}"	{'Benazepril'}
+U	"{'replicase 1a or pol', 'pol', 'Pol'}"	"{'Amiodarone', 'Nexterone', 'amiodarone'}"
+T	"{'hnRNP A1', 'heterogeneous nuclear ribonucleoprotein A1', 'Heterogeneous nuclear ribonucleoprotein A1', 'hnRNP-A1', 'HnRNP A1', 'hnRNPA1'}"	"{'Calcium', 'calcium'}"
+T	{'motor neuron degeneration'}	"{'superoxide', 'superoxide radical', 'superoxide anion', 'superoxide-radical', 'superoxides'}"
+T	"{'INF-a', 'IFN-beta', 'InfA', 'INF-alpha', 'INFA', 'INF-beta'}"	"{'carbon dioxide', 'CO2', 'Co2', 'Carbon dioxide'}"
+T	"{'TNF', 'tumor necrosis factor alpha', 'TNFalpha', 'TNF-alpha', 'tumor necrosis factor-alpha'}"	"{'Chol', 'Cholesterol', 'cholesterol'}"
+U	"{'SUMO1', 'SUMO-1'}"	{'phosphate'}
+T	"{'angiotensin-converting enzyme 2', 'ACE2', 'angiotensin converting enzyme-2', 'angiotensin-converting enzyme-2', 'ACE-2', 'Ace2', 'rACE2', 'ACE 2'}"	{'doxorubicin'}
+F	"{'Fas ligand', 'FASL', 'CD178', 'FasL', 'FASLG'}"	"{'""5TERM PPMO""', ""ADengur-2R B 5'-ctgttgattcaacagcaccattc-3'5'-ctgttggatcaacaacaccaatc"", '""5\'-AATCTCGAGTCAAACACTCGTGGTCG-3\'""', '""5\'-actcgagtatctactaccacaatatcggaac""', '""5-nonyloxytrymptamine""', 'PPMO 5TERM', '""5\'-ACAGGAACAAAGTTAACAGATGTAACATTCCTGAA""', '""5\'-TTTCAGGTGCTCAAAGCTCA""', '""5-NT""'}"
+U	"{'beta-defensin-1', 'beta defensin (HBD-1', 'hBD1'}"	"{'Cu', 'copper', 'Copper', 'Cu+'}"
+T	{'B12'}	"{'polysaccharide', 'Glycan', 'Glycans', 'glycan', 'polysaccharides', 'glycans', 'Polysaccharides'}"
+U	"{'NEDD8', 'Nedd8'}"	"{'potassium', 'Potassium'}"
+T	"{'SARS-COV 2', 'sars', 'SARS', ""SARS'""}"	{'EtOH'}
+T	"{'EGF', 'epidermal growth factor'}"	"{'nicotine', 'Nicotine'}"
+U	"{'E prostanoid receptor 4', 'EP4'}"	{'thromboxane (Tx) B2'}
+T	"{'Apolipoprotein A1', 'ApoA1', 'APOA1'}"	"{'C4(-)', 'C4'}"
+U	{'PDB'}	"{'monosaccharide', 'monosaccharides'}"
+T	"{'AngII', 'angiotensin II', 'Angiotensin-I', 'Ang II', 'ANGII', 'Ang-II', 'Angiotensinogen', 'AngI', 'angiotensin I and II', 'Angiotensin (Ang) II', 'angiotensin-II', 'AT-II', 'Ang(Angiotensin) II', 'AGT', 'Angiotensin II', 'angiotensin (Ang) II', 'angiotensin I and angiotensin II', 'Angiotensin I', 'angiotensin I', 'Angiotensin-II', 'angiotensin) I and II', 'angiotensinogen', 'Ang I', 'angiotensin', 'angiotensin-I', 'ANG II', 'AT'}"	"{'sodium', 'Sodium'}"
+T	"{'BCL2', 'BCL-2', 'B cell leukemia/ lymphoma 2'}"	"{'AJ311317', 'AJ871024', 'AJ575373', 'AJ271965', 'AJ871017', 'AJ968413'}"
+U	"{'MHC II', 'H-2', 'MHCII', 'MHC-II'}"	"{'Clodronate', 'clodronate'}"
+T	"{'CASP3', 'caspase-3', 'caspase 3'}"	"{'S2H', 'H2S', 'bisulfite', 'H-S', 'S2P'}"
+U	"{'cytochrome b', 'Cytb'}"	"{'KF600634', 'KF600632', 'KF823809', 'KF925531', 'KF192507', 'KF871068', 'KF600613', 'KF745068', 'KF267450', 'KF823808', 'KF887949', 'KF760557', 'KF600630', 'KF761675', 'KF961221', 'KF186566', 'KF779469', 'KF600620', 'KF272920', 'KF268948     KF268949     KF268950     KF993678     KJ634273     KJ776791', 'CoV KF636752 B18', 'KF600612', 'KF186565', 'KF961222', 'KF600645', 'KF600647', 'KF688606', 'KF600628', 'KF186567', 'KF906249', 'KF600651', 'KF600644', 'KF600627', 'KF600652'}"
+T	"{'ORF1/a', 'orf1', 'orf1ab_8; S_14', 'ORF1', 'open reading frame (ORF) 1'}"	"{'(R)-methyl', '""2\'-methyl""', '""3-methyl-1""', '""1\'-methyl""', 'methyl'}"
+T	{'ATPase'}	"{'N', 'Nitrogen', 'nitrogen'}"
+T	{'RIG-1'}	"{'retinoic acids', 'ATRA', 'all-trans-retinoic acid', 'Retinoic acid', 'retinoic acid'}"
+U	{'Advil'}	"{'Cu', 'copper', 'Copper', 'Cu+'}"
+F	"{'Mu M', 'mum', 'muM'}"	{'maleimide'}
+U	{'CD9'}	{'flunarizine'}
+U	{'iNOS'}	"{""F5'-ACG CAA TCT""}"
+U	{'TST'}	{'ammonium acetate'}
+T	"{'interferon-gamma-induced protein 10', 'interferon-gamma inducible protein 10', 'Cxcl10', 'CXCL- 10', 'CXC-motif chemokine ligand 10', 'CXCL10', 'interferon (IFN)-gamma inducible protein 10', 'interferon-inducible protein-10', 'interferon-gamma-inducible protein-10', 'IP-10', 'interferon gamma-inducible protein 10', 'IP10', 'interferon-gamma-inducible protein 10', 'CXC-chemokine ligand 10', 'CXCL-10', 'IFN-gamma-induced protein 10'}"	"{'Trp', 'tryptophan', 'Tryptophan'}"
+T	"{'CXCR3', 'Cxcr3'}"	{'Alexa Fluor'}
+U	{'JS-2'}	"{'JQ065048', 'JQ316196', 'JQ821392', 'JQ989269', 'JQ240471', 'JQ023161', 'JQ065042', 'JQ065044', 'JQ989270', 'JQ065043', 'JQ245968'}"
+U	"{'CD8', 'CD8A'}"	"{'Co-morbid', 'Co', '""3-hydroxy-methyglutaryl-CoA""'}"
+T	{'IGF-1'}	{'parathyroid hormone'}
+U	{'ORF3'}	"{'HQ412604', 'HQ832104', 'HQ902242'}"
+T	{'caspase-9 and -3'}	{'Xanthone'}
+U	"{'Atg7', 'ATG7'}"	"{'GDPs', 'GDP'}"
+U	"{'gastric inhibitory peptide', 'GIP'}"	"{'NAD+', 'nad'}"
+T	"{'vascular endothelial growth factor A', 'VEGFA', 'VEGF', 'vascular endothelial growth factor'}"	"{'ROS', 'Reactive oxygen species', 'reactive oxygen species'}"
+U	"{'toll', 'TLR-4', 'Toll-like receptor 4', 'TLR4', 'Toll'}"	"{'IPV-CAF01', 'CAF', 'CAF01'}"
+T	{'NF-kappaB'}	"{'polyphenol', 'Polyphenols', 'polyphenols'}"
+T	"{'IL-3', 'interleukin-3'}"	{'MIP-lalpha'}
+U	{'CTCF'}	"{'potassium', 'Potassium'}"
+U	"{'IgA', 'CD79a'}"	"{'saponin', 'saponins'}"
+U	"{'galectin-3', 'Gal-3'}"	{'squalene'}
+T	"{'CXCR2', 'mCXCR2'}"	"{'thioglycolate', 'Thioglycolate'}"
+U	"{'EPO', 'erythropoietin', 'Erythropoietin'}"	"{'Spironolactone', 'Aldactone', 'spironolactone'}"
+U	{'FPR3'}	"{'DENV-4', '""606831 3 AQP4 AQUAPORIN 4 600308""', '""24-Diphenylfurandiamidines""', '""4A""'}"
+U	"{'MAPK1', 'erk', 'Mitogen-activated protein kinase 1', 'p38', 'ERK2', 'ERK'}"	{'DMB'}
+T	"{'Atg5', 'atg5', 'ATG5'}"	{'Zn'}
+T	{'ubiquitin'}	{'aldehyde'}
+T	"{'GAPDH', 'Gapdh'}"	{'WC'}
+U	"{'CD8', 'CD8A'}"	"{'diminazene aceturate', 'Berenil', 'Diminazene aceturate'}"
+T	"{'Dipeptidylpeptidase-4', 'dipeptidyl peptidase (DPP) 4', 'Dipeptidyl peptidase-4', 'Dipeptidyl peptidase 4', 'dipeptidyl peptidase 4', 'Dipeptidyl Peptidase-4', 'DPP4', 'dipeptidyl peptidase-4', 'hCD26', 'Dipeptidyl Peptidase 4', 'dipeptidyl peptidase IV', 'hDPP4', 'CD26', 'DPP-4'}"	"{'Trp', 'tryptophan', 'Tryptophan'}"
+T	"{'Ccl5', 'RANTES', 'CCL5', 'chemokine (C-C Motif) ligand 5', 'C-C chemokine ligand 5', 'CCL-5'}"	"{'ribavirina', 'RBV', 'ribavirin', '""1-beta-D-ribofuranosyl-124-triazole-3-carboxamide""', 'Ribavirin'}"
+T	"{'STAT3', 'STAT-3', 'signal transducer and activator of transcription 3', 'STAT', 'Signal Transducer and Activator of Transcription 3'}"	"{'calcitriol', 'Calcitriol', '""125(OH)2D3""', '""125-dihydroxyvitamin D3""'}"
+T	{'C13'}	{'selamectin'}
+U	"{'PARP', 'PARP-1', 'PARP1', 'Parp1'}"	{'sulfur'}
+F	{'GRAF1'}	"{'retinoids', 'Retinoids', 'retinoid'}"
+F	{'HE1'}	"{'arginine', 'arginines', 'Arginine'}"
+U	"{'E17', 'E1 E2', 'E1 a class III', 'SNORA73A', 'E1B'}"	{'P188'}
+U	{'myelin basic protein'}	{'cGAMP'}
+U	"{'protein kinase R', 'PKR', 'EIF2AK2', 'protein kinase RNA'}"	"{'Imatinib', 'Imatinib mesylate', 'imatinib', 'imatinib mesylate'}"
+T	"{'thrombin', 'serine protease', 'Prothrombin', 'prothrombin', 'Thrombin'}"	{'aldehyde'}
+U	"{'L-selectin', 'SELL', 'CD62L'}"	"{'ozogamicin', 'CMA-676'}"
+T	"{'heparin-binding (HB)-EGF', 'HB-EGF'}"	{'lysophosphatidic acid'}
+T	{'Src'}	"{'fatty acids', 'Fatty Acid', 'fatty acid'}"
+T	"{'interleukin-1beta', 'pro-IL-1beta', 'interleukin-1B', 'IL1', 'interleukin-1 beta', 'IL-1B', 'IL1B', 'interleukin (IL)1B', 'IL-1', 'IL1b', 'interleukin 1beta', 'IL-1b', 'interleukin 1-beta', 'interleukin-1-beta'}"	"{'artemisinin', 'Artemisinin'}"
+U	"{'PGD2', 'prostaglandin D2'}"	{'acetic acid'}
+U	{'Flt-1'}	"{'ATP', 'adenosine triphosphate'}"
+U	{'MLL1'}	"{'Rutin', 'rutin'}"
+T	{'tRNA'}	"{'His', 'histidine', 'HIS'}"
+T	"{'TFG-beta', 'TGF- beta', 'TGFalpha', 'TGF-beta', 'Tgf-beta', 'TGFbeta', 'tgf-beta'}"	{'Fas'}
+T	"{'Akt1', 'Rac', 'akt', 'AKT', 'Akt'}"	"{'Glutathione', 'glutathione', 'GSH'}"
+U	"{'cytosolic phospholipase A2', 'PLA2G4A'}"	{'beta-sitosterol'}
+U	"{'BTK', ""Bruton's tyrosine kinase"", 'Bruton tyrosine kinase', 'Bruton Kinase'}"	"{'gangliosides', 'ganglioside'}"
+U	{'PAR1'}	"{'Eosin', 'eosin'}"
+U	"{'cathepsin L', 'Cathepsin L'}"	{'DMSO'}
+U	"{'angiotensin-converting enzyme 2 receptors', 'Angiotensin converting enzyme)-2', 'Angiotensin-Converting Enzyme 2', 'Angiotensin Converting Enzyme (ACE)2', ""angiotensin-converting enzyme 2'"", 'Angiotensin Converting Enzyme 2', 'angiotensin- converting enzyme 2', 'ACE2', 'angiotensin-converting-enzyme-2', 'angiotensin-converting enzyme-2', 'angiotensin-converting Enzyme 2', 'ACE2) has been', 'angiotensin-converting enzyme (ACE)-2', 'ACE 2', 'angiotensin I converting enzyme 2', 'hACE2/293T', 'angiotension-converting enzyme 2', 'angiotensin converting enzyme 2', 'Angiotensin-converting enzyme-2', 'Angiotensin-Converting enzyme 2', 'Angiotensin converting enzyme-2', 'angiotensin-converting-enzyme 2', 'Angiotensin converting enzymes 2', 'Angiotensin Converting Enzyme-2', 'ace2', 'angiotensin-conversion enzyme 2', 'Angiotensin converting enzyme (ACE) 2', 'Angiotensin-converting enzyme (ACE) 2', 'Angiotensin-converting-enzyme 2', 'angiotensin-converting enzyme2', 'hACE-2', 'angiotensin converting enzyme (ACE) 2', 'Ace2', 'angiotensin-converting enzyme (ACE) 2', 'Angiotensin-converting enzyme 2', ""Angiotensin Converting Enzyme-2'"", 'Angiotensin I converting enzyme 2', 'Angiotensin-Converting Enzyme (ACE) 2', 'hACE2', 'angiotensin-converting enzyme 2', 'angiotensin', 'Angiotensin-I Converting Enzyme-2', 'angiotensin converting enzyme-2', 'Angiotensin converting enzyme 2', 'ACE)2', 'Angiotensin-converting Enzyme 2', 'ACE-2'}"	"{'""4418 amino acids""'}"
+U	"{'PTBP1', 'PTB'}"	{'ammonium chloride'}
+U	"{'S-6', 'RPS6'}"	"{'B08006', '""6B""', 'ACAbB 127857 TDVRYKDDMYHFFCPAIQAQ', '""2B9B""', 'ACAbB 131879', 'B11662', 'Tacribe                           B                             TCRV', 'flavoyadorinin-B', 'boron', '""4B""', 'IFV-B', 'Balsacone B', 'LAmB', 'Schweiger B', 'VERY  B', 'ACAbB 133630'}"
+U	"{'scFv', 'ScFv'}"	"{'N', 'Nitrogen', 'nitrogen'}"
+U	"{'B7-H1', 'B7H1', 'PD-L1'}"	"{'Ammonia', 'ammonia'}"
+U	{'TMPRSS11A'}	{'acrylamide'}
+T	"{'PLA2', 'sPLA2', 'secretory phospholipase A2-IIA', 'sPLA2-IIA'}"	"{'cysteine', 'l-cysteine', 'Cys'}"
+U	{'CD45'}	{'PEC'}
+F	"{'ribonucleoprotein', 'RNP'}"	"{'helenium Asteraceae elecampane', 'Arenaviridae      Arenavirus  Tacaribe', 'Caveolin'}"
+T	"{'myoglobin', 'Myo', 'Myoglobin', 'MYO'}"	"{'superoxide', 'superoxide radical', 'superoxide anion', 'superoxide-radical', 'superoxides'}"
+F	"{'serum albumin', 'HSA', 'Albumin', 'ALB', 'Alb 42Bil 7INR 1', 'Alb', 'albumin', 'albumin lactate dehydrogenase'}"	"{'polysorbate 80', 'Tween 20', 'Tween'}"
+T	{'TPC1-2'}	{'dihydropyridines'}
+T	{'alpha-glucosidase'}	"{'Chloramphenicol', 'chloramphenicol', 'Chloramphenicol Acetyl', 'chloromycetin'}"
+U	"{'Mitogen-activated protein kinase kinase', 'MEK'}"	{'polyphosphate'}
+F	"{'Toll-like receptor-3', 'Toll-Like Receptor 3', 'TLR-3', 'toll-like receptor 3', 'TLR3', 'Toll-like receptor 3', 'TLR', 'Toll-like receptor (TLR) 3'}"	"{'Hydrogen Peroxide', 'hydrogen peroxide', 'Hydrogen peroxide', 'H2O2'}"
+U	"{'interleukin (IL)-2', 'interleukins (IL)-2', 'IL2', 'interleukin-2', 'IL-2', 'IL 2', 'interleukin 2', 'interleukins (IL) (IL-2'}"	{'EMS'}
+T	"{'extra cellular signal-regulated kinase 1/2', 'ERK 1/2', 'extracellular signal-regulated kinase1/2', 'ERK1/2'}"	{'nitrotyrosine'}
+T	{'PLP2'}	"{'Gly', 'glycine'}"
+T	"{'EGF', 'Epidermal Growth Factor', 'epidermal growth factor'}"	"{'polyamines', 'polyamine', 'polyamine spermidine'}"
+U	"{'AP-1', 'activator protein 1'}"	"{'lactate', 'Lactate', 'lactic acid', 'Lactic acid'}"
+F	{'PPT'}	{'thiol'}
+T	"{'RNase A', 'RNAse A'}"	"{'PBS', 'AMX+PBS'}"
+T	"{'tap', 'NXF1', 'Tap'}"	"{'arginine', 'arginines', 'Arginine'}"
+U	"{'peroxisome proliferator-activated receptor gamma', 'PPARgamma', 'PPAR-gamma'}"	"{'ornithine', 'L-ornithine'}"
+U	"{'caspase-3', 'Caspase-3', 'Caspase 3', 'caspase 3'}"	"{'CAA A', 'CAA36601', 'CAA'}"
+U	"{'phospholipase A2 group IID', 'PLA2G2D'}"	"{'fatty acids', 'Fatty Acid', 'fatty acid'}"
+U	"{'GP2', 'Gp2', 'GP12'}"	"{'""88-94 amino acids""', 'O88'}"
+F	{'G11'}	"{'AF339474', 'AF176348', 'AF315122', 'AF226687', 'AF081296', 'AF406813', 'AF339487', 'AF029248', 'AF41342', 'AF033817', 'AF033815', 'AF052723', 'AF206663', 'AF369529', 'AF056197', 'AF033822', 'AF227196', 'AF033808', 'AF353511', 'AF371337', 'AF494042', 'AF542084', 'AF363453', 'AF081300', 'AF033811', 'AF184212', 'AF499636', 'AF046869', 'AF339479', 'AF086833', 'AF327921', 'AF220295', 'AF033813', 'AF08138', 'AF311939', 'AF391541', 'AF311938', 'AF123433', 'AF465512', 'AF126467', 'AF033820', 'AF499635', 'AF331831'}"
+F	"{'TNFR-associated factor 2', 'TRAF2'}"	{'Fas'}
+U	"{'osteopontin', 'OPN'}"	{'MFB'}
+F	"{'STAT1', 'STAT-1'}"	"{'DT', 'dt'}"
+F	{'APOBEC3A'}	"{'xTAG RVP', 'TAG', 'Luminex xTAG  RVP', 'xTAG  RVP', 'Luminex xTAG RVP', 'Luminex xTAG'}"
+T	{'BLVRA'}	"{'iron', 'ferric ions', 'ferric ion', 'Iron'}"
+U	"{'NEDD8', 'Nedd8'}"	{'purines'}
+U	{'CFI'}	"{'Nucleoside', 'nucleoside', 'nucleosides'}"
+T	"{'IL-8', 'IL8', 'CXCL8', 'CXCL-8', 'interleukin-8', 'Interleukin (IL)-8', 'interleukin 8', 'C-X-C motif chemokine ligand 8'}"	"{'gefitinib', 'Gefitinib'}"
+U	{'PBS'}	"{'triazoles', 'triazole'}"
+T	{'Akt'}	"{'propofol', 'Propofol'}"
+F	"{'Foxp3', 'FOXP3'}"	"{'Calcium', 'calcium'}"
+U	"{'TMPRSS2', 'transmembrane protease serine 2'}"	{'fluticasone'}
+T	"{'Cox2', 'COX2', 'COX-2', 'cox-2'}"	{'PGE'}
+T	"{'early growth response gene 1', 'EGR-1', 'Egr1'}"	"{'TCR', 'Vdelta1-TCR', 'Vdelta2 TCR'}"
+U	"{'programmed death-ligand 1', 'CD274', 'PD(L)1', 'PD-L1'}"	"{'Hematoxylin', 'hematoxylin', 'haematoxylin'}"
+F	"{'AP2', 'Apr 4 2020) at Sce 1: (p 2 A) = (p 2  *'}"	{'tannins'}
+T	"{'Atg7', 'ATG7'}"	"{'tamoxifen', 'TAM'}"
+T	{'Sirtuin 1'}	{'CR'}
+T	{'CXCL10'}	{'saxagliptin'}
+F	"{'B cell linker', 'BLNK'}"	{'Advax'}
+T	"{'Akt1', 'Rac', 'akt', 'AKT', 'Akt'}"	{'OMT'}
+F	"{'TLR-5', 'TLR5'}"	"{'HCHL', '-hydroxychloroquine', 'Hydroxy-Chloroquine', 'HCQ sulfate', 'HQ', '(hydroxy) chloroquine', '(hydroxy-) chloroquine', 'Hydroxy Chloroquine', 'hydroxychloroquine sulfate', 'HYDROXYCHLOROQUINE', 'HCQ', 'Hydroxy-chloroquine', 'plaquenil', 'HCQ +', '-hydroxy-chloroquine', 'Hydroxychloroquine Sulfate', 'Hydroxy Chloroquine sulphate', 'HCQs', ') Hydroxychloroquine', 'hydroxy-chloroquine', 'Hydroxychloroquine', 'hydroxychloroquine', 'Hydroxychloroquine sulfate', 'hydroxy chloroquine', 'Hydroxychloroquine sulphate', '(Hydroxy)-Chloroquine', 'HDQ', 'HCQ+', '(hydroxy)chloroquine', 'hydroxychloroquine sulphate', 'Plaquenil'}"
+F	"{'Fgl2', 'Fibrinogen-like protein 2', 'FGL2', 'fibrinogen-like protein 2', 'fgl2'}"	"{'TMB', 'TMB-355'}"
+F	"{'il-8', 'IL-8'}"	{'SLA'}
+U	"{'CASP3', 'caspase-3', 'caspase 3'}"	{'sucrose'}
+F	{'IL10RB'}	"{'RBV', 'EU303218 RBV'}"
+F	"{'macrophage mannose receptor 1', 'MRC 1/5', 'Mrc1', 'CD206'}"	"{'Ethylenediaminetetraacetic acid', 'EDTA'}"
+T	{'PDGFR'}	{'staurosporine'}
+T	"{'MAbs', 'mAbs', 'Abs'}"	{'bis'}
+T	"{'gp130', 'gp-130', 'CD130', 'glycoprotein 130'}"	"{'TCZ', 'Actemra', 'atlizumab', 'RoActemra', 'Tocilizumab', 'tocilizumab'}"
+F	"{'IA-2', 'IA2'}"	"{'Nucleoside', 'nucleoside', 'nucleosides'}"
+U	{'PALS1'}	{'acrylamide'}
+F	"{'Mu M', 'mum', 'muM'}"	{'deoxycholic acid'}
+F	"{'IgA', 'CD79a'}"	"{'bicarbonate', 'HCO3-', 'HCO 3', 'HCO3', 'Bicarbonate'}"
+T	{'CD4'}	{'DMSO'}
+T	{'CypD'}	"{'ATP', 'adenosine triphosphate'}"
+F	"{'phosphatidylinositol-45-bisphosphate 3-kinase', 'phosphatidylinositol 3-kinase'}"	"{'carbon dioxide', 'CO2', 'Co2', 'Carbon dioxide'}"
+T	"{'TLR-5', 'TLR5'}"	"{'Mannose', 'mannose'}"
+T	"{'SARS-COV 2', 'sars', 'SARS', ""SARS'""}"	"{'Simvastatin', 'simvastatin'}"
+T	{'interleukin-1beta'}	"{'triglyceride', 'triglycerides', 'Triglyceride'}"
+T	{'tRNA'}	{'choline'}
+T	{'GSTT1'}	"{'Chol', 'Cholesterol', 'cholesterol'}"
+T	{'MDM2'}	{'thioester'}
+T	"{'Carbapenemase', 'carbapenemase'}"	{'VPD'}
+T	{'MMP2'}	{'ethidium bromide'}
+F	"{'vascular cell adhesion molecule 1', 'VCAM1'}"	"{'DDT', 'dichlorodiphenyltrichloroethane'}"
+T	"{'IL2', 'IL-2'}"	"{'GLU', 'dextrose', 'glucose', 'Glucose'}"
+F	{'JAK3'}	"{'dias', 'Di', 'DiNapoli'}"
+T	{'CD86'}	"{'Sitagliptin', 'sitagliptin'}"
+F	{'PAR1'}	{'carboxymethyl'}
+F	"{'jama', 'Jama', 'JAMA'}"	"{'TG', '""6-TG""', '""6-thioguanine""', '""6TG""'}"
+T	"{'Myeloperoxidase', 'myeloperoxidase', 'MPO', 'myeloperoxidase and elastase'}"	"{'Fluticasone', 'fluticasone propionate', 'fluticasone'}"
+F	{'ATF6'}	"{'hydrogen', 'Hydrogen', 'hydrogens'}"
+F	"{'STAT1', 'Signal transducer and activator of transcription 1', 'STAT-1'}"	"{'trypan blue', 'Trypan blue'}"
+T	{'Pigment epithelium-derived factor'}	"{'SDS-polyacrylamide', 'SDS'}"
+F	"{'ETA', 'Eta'}"	{'ester'}
+U	"{'MIP-2', 'CXCL2', 'macrophage inflammatory protein 2-alpha', 'CXC-motif chemokine ligand 2'}"	"{'Trizol', 'TRIzol'}"
+T	"{'Cox2', 'COX-2'}"	"{'parthenolide', 'Parthenolide'}"
+T	{'HMGB1'}	"{'formyl', '""1-formyl-5-nitroisoquinoline""'}"
+U	"{'Fcgamma receptor III', 'FcgammaRIII'}"	{'acetylcholine'}
+T	"{'RIG-I', 'RIG-1'}"	"{'thioether', 'sulfide'}"
+T	"{'Stat3', 'STAT3', 'STAT-3'}"	"{'hydrogen', 'Hydrogen', 'hydrogens'}"
+T	"{'GLP-1 receptor', 'GLP1 receptor', 'GLP-1R', 'Glucagon-like peptide-1 receptor', 'GLP1', 'GLP-1', 'glucagon-like peptide 1 receptor'}"	"{'Nitric Oxide', 'nitric-oxide', 'nitric oxide', 'Nitric oxide'}"
+U	"{'envelope glycoprotein', 'Env', 'Gp120', 'gp160', 'GP160', 'env', 'gp120'}"	"{'BCX4430-A', 'BCX4430'}"
+T	"{'FAS', 'Fatty acid synthase'}"	"{'Metformin', 'metformin'}"
+T	{'ACTB'}	{'purines'}
+U	"{'eukaryotic initiation factor 3', 'eIF3'}"	{'Hoechst 33258'}
+T	{'Bcl-2'}	{'PVDF'}
+T	{'IFNR'}	"{'Trp', 'tryptophan', 'Tryptophan'}"
+T	{'HBGA'}	"{'monosaccharide', 'monosaccharides'}"
+F	{'TCR'}	"{'Su-Zi', 'Su C', 'Su', 'Su J', 'Su-Yin Zi-Su Folium'}"
+T	{'RTP'}	{'sodium sulfite'}
+T	{'CD4'}	"{'Sitagliptin', 'sitagliptin'}"
+U	{'Fab'}	"{'penicillin', 'Penicillin'}"
+F	"{'Pace', 'furin', 'PACE', 'Furin', 'FURIN'}"	"{'bis-Tris', 'Bis-Tris'}"
+F	{'RegIIIgamma'}	"{'oleic acid', 'Oleic acid'}"
+T	"{'huh7', 'Huh7', 'Huh-7'}"	{'bafilomycin'}
+F	{'tRNA'}	"{'proline', 'L-proline', 'pro)', 'PROS', 'pro', '-pro)', '-pro', 'PRO', 'Pro'}"
+T	"{'angiotensin-converting enzyme 2', 'ACE2', 'angiotensin converting enzyme-2', 'angiotensin-converting enzyme-2', 'ACE-2', 'Ace2', 'rACE2', 'ACE 2'}"	{'Tyr'}
+T	"{'BECN1', 'beclin1', 'Beclin1', 'beclin 1', 'beclin-1'}"	"{'niclosamide', 'Niclosamide', 'Niclocide', 'NIC'}"
+T	"{'TLR7', 'Toll-like receptor 7', 'TLR-7', 'toll-like receptor 7', 'toll like receptor 7'}"	"{'retinoic acids', 'ATRA', 'all-trans-retinoic acid', 'Retinoic acid', 'retinoic acid'}"
+T	{'GP1'}	{'Gn'}
+T	{'p53'}	{'sodium butyrate'}
+T	"{'MAPK8', 'JNK1', 'JNK', 'JUN N-terminal kinase'}"	{'arachidonic acid'}
+F	"{'METTL3', 'm6A'}"	"{'Gly', 'glycine'}"
+T	{'Actin'}	{'acetone'}
+F	"{'p21', 'CDKN1A'}"	"{'carbon dioxide', 'CO2', 'Co2', 'Carbon dioxide'}"
+T	"{'IL-6', 'interleukin (IL) 6', 'IL6', 'interleukin (IL)-6', 'Interleukin (IL)-6', 'interleukin-6'}"	{'caffeic acid'}
+F	"{'eotaxin-2', 'CCL24'}"	{'VAL'}
+T	"{'VEGF-A', 'VEGF'}"	"{'PEI', 'Polyethylenimine', 'polyethylenimine', 'polyethyleneimine'}"
+T	{'RTP'}	{'sucrose'}
+T	"{'MMP-7', 'matrilysin'}"	{'Lipofectamine'}
+U	{'SND1'}	"{'Hygromycin B', 'hygromycin B'}"
+U	"{'angiotensin-converting enzyme 2 receptors', 'Angiotensin converting enzyme)-2', 'Angiotensin-Converting Enzyme 2', 'Angiotensin Converting Enzyme (ACE)2', ""angiotensin-converting enzyme 2'"", 'Angiotensin Converting Enzyme 2', 'angiotensin- converting enzyme 2', 'ACE2', 'angiotensin-converting-enzyme-2', 'angiotensin-converting enzyme-2', 'angiotensin-converting Enzyme 2', 'ACE2) has been', 'angiotensin-converting enzyme (ACE)-2', 'ACE 2', 'angiotensin I converting enzyme 2', 'hACE2/293T', 'angiotension-converting enzyme 2', 'angiotensin converting enzyme 2', 'Angiotensin-converting enzyme-2', 'Angiotensin-Converting enzyme 2', 'Angiotensin converting enzyme-2', 'angiotensin-converting-enzyme 2', 'Angiotensin converting enzymes 2', 'Angiotensin Converting Enzyme-2', 'ace2', 'angiotensin-conversion enzyme 2', 'Angiotensin converting enzyme (ACE) 2', 'Angiotensin-converting enzyme (ACE) 2', 'Angiotensin-converting-enzyme 2', 'angiotensin-converting enzyme2', 'hACE-2', 'angiotensin converting enzyme (ACE) 2', 'Ace2', 'angiotensin-converting enzyme (ACE) 2', 'Angiotensin-converting enzyme 2', ""Angiotensin Converting Enzyme-2'"", 'Angiotensin I converting enzyme 2', 'Angiotensin-Converting Enzyme (ACE) 2', 'hACE2', 'angiotensin-converting enzyme 2', 'angiotensin', 'Angiotensin-I Converting Enzyme-2', 'angiotensin converting enzyme-2', 'Angiotensin converting enzyme 2', 'ACE)2', 'Angiotensin-converting Enzyme 2', 'ACE-2'}"	{'oleananes'}
+T	"{'TFG-beta', 'TGF- beta', 'TGFalpha', 'TGF-beta', 'Tgf-beta', 'TGFbeta', 'tgf-beta'}"	"{'Morphine', 'morphine'}"
+F	"{'TH2', 'Th2'}"	"{'di-leucine', 'Leucine', 'Leu', 'leucine'}"
+T	{'IFITM1 and 3'}	"{'Calcein', 'calcein'}"
+F	{'IFI27'}	{'Cm'}
+F	{'cig'}	{'tetraspanin'}
+T	"{'Foxp3', 'FOXP3'}"	"{'Gadolinium', 'gadolinium'}"
+F	{'HCAP'}	{'Met'}
+T	"{'CNP', 'C-type natriuretic peptide'}"	"{'Ethylenediaminetetraacetic acid', 'EDTA'}"
+T	{'myosin'}	{'anserine'}
+T	"{'p 21', 'p21'}"	"{'Calcium', 'calcium'}"
+F	"{'suppressor of cytokine signaling 3', 'SOCS3'}"	{'pyrimidine'}
+T	{'Smad1'}	{'PAH'}
+U	"{'INF-a', 'IFN-beta', 'InfA', 'INF-alpha', 'INFA', 'INF-beta'}"	"{'AY641576', 'AY366525', 'AY274505', 'AY618989', 'AY032626', 'AY729654', 'AY302545', 'AY843301', 'AY349167', 'AY278491', 'AY545919', 'AY697459', 'AY297748', 'AY338174', 'AY599834', 'AY304486', 'AY304488', 'AY255831', 'AY297028', 'AY597011', 'AY898809', 'AY606193', 'AY884001', 'AY350750', 'AY345986', 'AY297749', 'AY697461', 'AY394987', 'AY463059', 'AY463060', 'AY585228', 'AY274119', 'AY532665', 'AY274504', 'AY588319', 'AY646853', 'AY391777', 'AY278487', 'AY632535', 'AY345988', 'AY353550', 'AY150564', 'AY700211', 'DPV AY563023', 'AY994055', 'AY283794', 'AY283797', 'AY585229', 'AY530095', 'AY394979', 'AY064708', 'AY606195', 'AY394978', 'AY95003', 'AY193805', 'AY262352', 'AY646283'}"
+T	"{'caspase', 'caspase 9', 'CASP9'}"	{'DAPI'}
+F	"{'Ly6c', 'Ly-6C', 'Ly6C'}"	"{'hydrogen', 'Hydrogen', 'hydrogens'}"
+T	"{'SARS-COV 2', 'sars', 'SARS', ""SARS'""}"	"{'alanine', 'L-alanine', 'Ala', 'ALA'}"
+T	"{'JAK-1', 'JAK1'}"	{'pyrimidine'}
+T	"{'RIG-I', 'retinoic acid-inducible gene I', 'C-Type Lectin Receptor and (RIG)-I', 'DDX58'}"	{'MPA'}
+U	{'CD69'}	"{'streptomycin', 'Streptomycin'}"
+F	"{'interleukin 2R', 'interleukin-2 receptor', 'IL-2Ra', 'IL-2R', 'IL2R', 'CD25', 'interleukin (IL)-2R'}"	{'Hoechst 33258'}
+U	{'CD169'}	{'acetyl'}
+U	{'GSN'}	"{'arginine', 'R', 'Arg', 'Arginine'}"
+T	{'NF-kappaB'}	{'TXA2'}
+F	"{'p90RSK-1', 'p90RSK1', 'RSK1', 'p90RSK'}"	"{'Ro', 'RoC'}"
+U	"{'PTPRC', 'CD45'}"	"{'Polystyrene', 'polystyrene'}"
+F	"{'Cox2', 'COX2', 'COX-2', 'cox-2'}"	"{'theophylline', 'Theophylline'}"
+U	"{'Interferon Alpha-1b', 'IFN-beta', 'Interferon (IFN) alpha', 'Ifn-beta1', 'IFN-alpha-1b', 'IFNbeta', 'IFN-alpha', 'IFNalpha-1b', 'interferon', 'IFNalpha', 'interferon alpha1b', 'interferon (IFN)', 'interferon alpha-1b', 'interferon (IFN)-alpha', 'IFN- alpha', 'IFN-beta1', 'IFN (IFN-lambda', 'Interferon-alpha 1', 'Interferon', 'alpha interferon (IFN-alpha', 'IFNbeta1', 'IFN-alpha1b', 'Ribavirin and IFN', 'type 2 pneumocyte type 1 interferon (IFN)', 'IFN'}"	{'glutaraldehyde'}
+F	{'NPC1'}	{'valacyclovir'}
+T	"{'PPARgamma', 'PPAR-gamma', 'PPAR gamma', 'PPARG'}"	"{'glycerol', 'glycerinum', 'glycerin'}"
+F	"{'gp67', 'CD33'}"	"{'Bevacizumab', 'bevacizumab'}"
+T	{'CD107a'}	"{'EBNA', 'EBNA3C', 'EBNA-3A'}"
+U	{'CD11c'}	"{'""4418 amino acids""'}"
+F	"{'Dipeptidylpeptidase-4', 'dipeptidyl peptidase (DPP) 4', 'Dipeptidyl peptidase-4', 'Dipeptidyl peptidase 4', 'dipeptidyl peptidase 4', 'Dipeptidyl Peptidase-4', 'DPP4', 'dipeptidyl peptidase-4', 'hCD26', 'Dipeptidyl Peptidase 4', 'dipeptidyl peptidase IV', 'hDPP4', 'CD26', 'DPP-4'}"	"{'quinolones', 'quinolone'}"
+T	"{'nsp1', 'nsP1'}"	"{""ADP-ribose-1''-phosphate""}"
+F	"{'zinc finger CCHC-type and RNA-binding motif 1', 'MADP1'}"	{'HEPES'}
+F	{'TLR9'}	"{'oxygen', 'O 2', 'Oxygen', 'O2-', 'O2'}"
+T	"{'Il-6', 'interleukin 6', 'BSF-2', 'Interleukin-6', 'IL6', 'interleukin (IL)-6', '""IL6\\""""', 'IL-6 8  IL-1', 'IL-6', 'interleukin (IL) 6', 'interleukin(IL)-6', 'IL (interleukin)-6', 'Interleukin 6', 'IL 6', 'il-6', 'HSF', 'Interleukin (IL)-6', 'Anti-interleukin-6', 'interleukin-6'}"	"{'LTB4', 'Leukotriene B4'}"
+T	"{'Il-6', 'interleukin 6', 'BSF-2', 'Interleukin-6', 'IL6', 'interleukin (IL)-6', '""IL6\\""""', 'IL-6 8  IL-1', 'IL-6', 'interleukin (IL) 6', 'interleukin(IL)-6', 'IL (interleukin)-6', 'Interleukin 6', 'IL 6', 'il-6', 'HSF', 'Interleukin (IL)-6', 'Anti-interleukin-6', 'interleukin-6'}"	"{'""5\'-inositol""', 'inositol'}"
+T	"{'SP-D', 'surfactant protein-D', 'surfactant protein D'}"	"{'dexametasone', 'Dexamethasone', 'dexamethasone'}"
+F	"{'Bid', 'BID', 'bid'}"	"{'S13A-C', 'C13', '""13-02-C""', '[13] Dextrane', 'O13'}"
+T	"{'high mobility group box)-1', 'HMGB-1', 'HMGB1', 'high-mobility group box 1', 'high mobility group box chromosomal protein-1'}"	"{'sphingosine 1-phosphate', 'sphingo-sine-1-phosphate', 'Sphingosine-1-phosphate', 'S1P', 'sphingosine-1-phosphate'}"
+F	"{'MIP-1a', 'CCL-3', 'MIP1A', 'macrophage inflammatory protein 1 alpha', 'MIP1A/B', 'MIP-1A', 'macrophage Inflammatory protein 1alpha', 'macrophage inflammatory protein 1A', 'MIP1beta', 'MIP1-alpha', 'macrophage inflammatory protein-1alpha', 'Ccl3', 'MIP1a', 'CCL3', 'MIP1alpha', 'macrophage inflammatory protein (MIP)1A', 'macrophage inflammatory protein 1-alpha', 'MIP-1beta', 'macrophage inflammatory protein (MIP)-1A', 'macrophage inflammatory protein (MIP)-1alpha', 'MIP1-a', 'MIP-1alpha', 'macrophage inflammatory protein-1A', 'macrophage inflammatory protein 1alpha'}"	{'Ox'}
+T	"{'Actin', 'beta-actin', 'actin'}"	{'cesium chloride'}
+T	"{'NP1', 'NP-1'}"	{'sulfur'}
+F	{'TRPML1'}	"{'Mn2+', 'manganese'}"
+U	{'IgG'}	{'(Z)-N-(3-(4-(4-bromophenyl)-4-hydroxypiperidin-1-yl)-3-oxo-1-phenylprop-1-en-2-yl)benzamide'}
+F	"{'androgen receptor', 'AR', 'Androgen receptor', 'Androgen Receptor'}"	"{'FAM-CGG TAATTG GGA TCCAT', 'C GGA'}"
+T	{'eGFR 5'}	"{'Azathioprine', 'Imurel', 'azathioprine', 'AZA'}"
+T	"{'KIT', 'kit', 'Kit'}"	"{'GLU', 'dextrose', 'glucose', 'Glucose'}"
+F	"{'ELANE', 'neutrophil elastase', 'Neutrophil Elastase'}"	{'linezolid'}
+T	"{'sigma1 and mu1', 'mu1', 'GSTM1'}"	{'sulfur'}
+T	"{'MBL', 'mannose-binding lectin'}"	"{'Phenylalanine', 'phenylalanine'}"
+T	"{'TMPRSS2', 'transmembrane protease serine 2'}"	"{'JX524171', 'JX163925', 'JX899382', 'JX860640', 'NO JX869059', 'JX899384', 'JX885610', 'JX625134', 'JX899383', 'CoV JX993987', 'JX869059'}"
+T	"{'CCL5', 'Ccl5', 'RANTES'}"	"{'poly-(A)', 'poly A', 'poly', 'poly(A)', 'poly-A', ""poly(A)-3'"", '""3\'-poly(A)""', ""N-3'-UTR-poly(A)"", 'polyA', 'Poly(A)', 'Poly'}"
+T	"{'ALF', 'ALI/ALF', 'Alba'}"	"{'Chol', 'Cholesterol', 'cholesterol'}"
+F	"{'eukaryotic initiation factor 4E', 'eukaryotic translation initiation factor 4E', 'eIF4E'}"	"{'""<60 F""', 'VP60', '""55 C-60 C""', '""60 C""', 'O 60', 'S60'}"
+T	"{'monocyte chemoattractant protein 1', 'C-C motif chemokine ligand (CCL)-2', 'monocyte chemoattractant protein (MCP)-1', 'CCL-2', 'chemokine (C-C motif) ligand 2', 'Ccl2', 'monocyte chemoattractant protein-1 and 1A', 'C-C motif ligand (CCL)2', 'monocyte chemotactic protein 1', 'monocyte chemoattractant protein)-1', 'monocyte chemo-attractant protein 1', 'MCP1', 'CCL2', 'monocyte chemotactic protein-1', 'monocyte chemo-attractant protein-1', 'chemokine C-C motif ligand2', 'monocyte chemotactic protein (MCP)-1', 'monocyte chemoattractant protein-1', 'CC-chemokine ligand 2', 'MCP-1', 'chemokine ', 'C-C motif chemokine ligand-2'}"	"{'aluminium', 'Aluminium', 'aluminum', 'al'}"
+T	{'GD3'}	"{'N-acetyl glucosamine', 'GlcNAc'}"
+U	{'Dai'}	{'silica'}
+T	{'AMPK'}	"{'RAD001', 'everolimus', 'Everolimus', 'Certican', 'EVR'}"
+T	"{'Ccl2', 'MCP1', 'CCL2', 'MCP-1', 'Monocyte chemoattractant protein-1', 'macrophage chemotactic factor-1'}"	"{'sodium chloride', 'saline', 'NaCl'}"
+F	"{'nsp1', 'nsP1'}"	"{'Arg-C', 'Arg', 'Arg I'}"
+F	"{'TNF', 'tumor necrosis factor alpha', 'TNFalpha', 'TNF-alpha', 'tumor necrosis factor-alpha'}"	{'ReoPro'}
+U	{'HC10'}	"{'JQ065048', 'JQ316196', 'JQ821392', 'JQ989269', 'JQ240471', 'JQ023161', 'JQ065042', 'JQ065044', 'JQ989270', 'JQ065043', 'JQ245968'}"
+T	"{'mucin', 'Mucin'}"	{'OligoG'}
+F	"{'interleukin-1beta', 'pro-IL-1beta', 'interleukin-1B', 'IL1', 'interleukin-1 beta', 'IL-1B', 'IL1B', 'interleukin (IL)1B', 'IL-1', 'IL1b', 'interleukin 1beta', 'IL-1b', 'interleukin 1-beta', 'interleukin-1-beta'}"	"{'eicosanoid', 'eicosanoids'}"
+T	"{'Cystic Fibrosis Transmembrane Conductance Regulator', 'CFTR', 'cystic fibrosis transmembrane conductance regulator', 'Cystic fibrosis transmembrane conductance regulator'}"	"{'bile acids', 'bile acid', 'Bile acids'}"
+T	"{'hERG', 'ERG'}"	"{'ketone', 'ketones'}"
+U	{'VP7'}	"{'bicarbonate', 'HCO3-', 'HCO 3', 'HCO3', 'Bicarbonate'}"
+U	{'fibrillarin'}	"{'Rb-CoV', 'Rb'}"
+U	"{'coat protein', 'GOLPH3'}"	"{'AAA66399', 'AAA', 'AAA46458'}"
+U	{'PALS1'}	"{'superoxide', 'superoxide radical', 'superoxide anion', 'superoxide-radical', 'superoxides'}"
+F	{'v.1'}	"{'sodium chloride', 'saline', 'NaCl'}"
+T	"{'alpha1-acid glycoprotein', 'AGP'}"	"{'fatty acids', 'Fatty Acid', 'fatty acid'}"
+T	{'actin'}	{'DAPI'}
+T	"{'eotaxin-2', 'CCL24'}"	"{'LTs', 'leukotrienes', 'leukotriene', 'Leukotrienes'}"
+T	{'FADD'}	"{'gemcitabine', 'Gemcitabine'}"
+F	"{'glutathione peroxidase and catalase', 'Cat', 'catalase', 'CAT', 'cat'}"	"{'P68335', 'PEDVPT-P5 PEDVPT-P96', 'P[5] P[11] P[14] P[17]', 'P25224', 'P69732', 'P[5]-P[8] P[11] P[13] P[19] P[13]/[22] P[23] P[26]', 'P03302', 'P[5]G6', 'P151979', 'P06491', 'P33865', 'PEDVPT-P5- and PEDVPT', 'P[5]', 'P03314', 'P06492', 'P10231', 'BiP', 'P[6]', 'P04584', 'P21433', 'P[3] P[7] P[11] P[12]', 'P04594', 'P26663', 'G3P[8] G4P[8]', 'PEDVPT-P5 and PEDVPT', 'P89442', 'P05755', 'P03348'}"
+F	{'GPIIb'}	{'Ran'}
+F	{'SMAC'}	"{'penicillin', 'Penicillin'}"
+T	"{'TLR4', 'LPS'}"	"{'Nigericin', 'nigericin'}"
+T	"{'c-Jun', 'AP-1'}"	"{'Resveratrol', 'resveratrol'}"
+T	{'Rb1'}	"{'Epigallocatechin gallate', 'Epigallocatechin-3-gallate', 'EGCG', '(-)-epigallocatechin gallate', 'epigallocatechin-3-gallate', 'epigallocatechin gallate'}"
+F	"{'vWF', 'VWF', 'Von Willebrand Factor', 'von Willebrand Factor', 'Von Willebrand factor', 'von Willebrand factor'}"	{'di-LacNAc'}
+T	"{'Akt1', 'Rac', 'akt', 'AKT', 'Akt'}"	"{'""8-oxoguanine""'}"
+T	{'Ded1'}	"{'SDS-polyacrylamide', 'SDS'}"
+F	{'CypB'}	{'paraformaldehyde'}
+T	"{'ErbB', 'EGF receptor', 'eGFR', 'EGFR', 'epidermal growth factor receptor', 'Epidermal Growth Factor Receptor', 'her 1'}"	"{'polyunsaturated fatty acid', 'PUFAs', 'polyunsaturated fatty acids', 'unsaturated fatty acids'}"
+T	{'C10'}	"{'Vinblastine', 'vinblastine'}"

@@ -1,0 +1,55 @@
+current ROC =  0.6626001092957957
+ current F1 =  0.6555534018220586
+ current Precision =  0.5344500632111252
+ current Recall = 0.8476190476190476
+ accuracy = 0.5546365914786967
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.83_with_with_weight_0.8_1.txt-------
+Average ROC =  0.6626001092957957
+ Average F1 =  0.6555534018220586 
+ Average Precision =  0.5344500632111252 
+ Average Recall = 0.8476190476190476 
+current ROC =  0.6580413439614072
+ current F1 =  0.6575395295025067
+ current Precision =  0.5343152616734566
+ current Recall = 0.8546365914786967
+ accuracy = 0.5548872180451128
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.83_with_with_weight_0.6_2.txt-------
+Average ROC =  0.6580413439614072
+ Average F1 =  0.6575395295025067 
+ Average Precision =  0.5343152616734566 
+ Average Recall = 0.8546365914786967 
+current ROC =  0.6483589927198949
+ current F1 =  0.657751937984496
+ current Precision =  0.536176935229068
+ current Recall = 0.8506265664160401
+ accuracy = 0.5573934837092732
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.83_with_with_weight_1_1.txt-------
+Average ROC =  0.6483589927198949
+ Average F1 =  0.657751937984496 
+ Average Precision =  0.536176935229068 
+ Average Recall = 0.8506265664160401 
+current ROC =  0.6757873380192336
+ current F1 =  0.6692713420589959
+ current Precision =  0.5483354673495519
+ current Recall = 0.8586466165413534
+ accuracy = 0.5756892230576441
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.83_with_with_weight_0.4_1.txt-------
+Average ROC =  0.6757873380192336
+ Average F1 =  0.6692713420589959 
+ Average Precision =  0.5483354673495519 
+ Average Recall = 0.8586466165413534 
+current ROC =  0.6620257410443402
+ current F1 =  0.6584493041749504
+ current Precision =  0.5456342668863262
+ current Recall = 0.8300751879699249
+ accuracy = 0.569423558897243
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.83_with_with_weight_0.2_2.txt-------
+Average ROC =  0.6620257410443402
+ Average F1 =  0.6584493041749504 
+ Average Precision =  0.5456342668863262 
+ Average Recall = 0.8300751879699249 

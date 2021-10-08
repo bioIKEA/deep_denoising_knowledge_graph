@@ -1,0 +1,52 @@
+79.0	{'TLR', 'TLR3', 'Toll-like receptor 3', 'Toll-like receptor (TLR) 3', 'Toll-like receptor-3', 'TLR-3', 'toll-like receptor 3', 'Toll-Like Receptor 3'}	{'hydrogen peroxide', 'Hydrogen peroxide', 'Hydrogen Peroxide', 'H2O2'}
+80.0	{'TH2', 'Th2'}	{'Leucine', 'leucine', 'di-leucine', 'Leu'}
+3.0	{'RSK1', 'p90RSK', 'p90RSK1', 'p90RSK-1'}	{'RoC', 'Ro'}
+20.0	{'CD11b'}	"{'""2780 NGS""', '""2780 KR003452""'}"
+15.0	{'eukaryotic translation initiation factor 4E', 'eukaryotic initiation factor 4E', 'eIF4E'}	"{'S60', '""55 C-60 C""', 'O 60', '""<60 F""', 'VP60', '""60 C""'}"
+222.0	{'IL-4', 'IL4'}	{'N', 'Nitrogen', 'nitrogen'}
+17.0	{'MIP1alpha', 'macrophage inflammatory protein (MIP)-1A', 'CCL3', 'MIP-1A', 'MIP1A', 'macrophage inflammatory protein (MIP)1A', 'macrophage inflammatory protein 1A', 'macrophage inflammatory protein 1alpha', 'MIP1A/B', 'macrophage inflammatory protein-1alpha', 'MIP1-alpha', 'MIP-1alpha', 'Ccl3', 'macrophage Inflammatory protein 1alpha', 'MIP-1beta', 'macrophage inflammatory protein 1-alpha', 'MIP1-a', 'macrophage inflammatory protein-1A', 'macrophage inflammatory protein 1 alpha', 'macrophage inflammatory protein (MIP)-1alpha', 'CCL-3', 'MIP1a', 'MIP1beta', 'MIP-1a'}	{'Ox'}
+23.0	{'HE1'}	{'Arginine', 'arginine', 'arginines'}
+18.0	{'TLR-5', 'TLR5'}	{'Hydroxy-Chloroquine', '(hydroxy-) chloroquine', 'HCQs', '(hydroxy) chloroquine', 'HDQ', 'Hydroxy Chloroquine sulphate', 'Hydroxy Chloroquine', '(Hydroxy)-Chloroquine', 'Hydroxychloroquine Sulfate', 'Plaquenil', 'HYDROXYCHLOROQUINE', 'hydroxychloroquine', '(hydroxy)chloroquine', 'Hydroxychloroquine sulphate', 'HCQ+', 'HQ', 'hydroxychloroquine sulphate', '-hydroxy-chloroquine', 'HCHL', 'HCQ +', 'HCQ', ') Hydroxychloroquine', 'Hydroxychloroquine sulfate', '-hydroxychloroquine', 'HCQ sulfate', 'hydroxy chloroquine', 'Hydroxychloroquine', 'hydroxychloroquine sulfate', 'Hydroxy-chloroquine', 'hydroxy-chloroquine', 'plaquenil'}
+5.0	{'ORF2'}	{'HBeAg'}
+2.0	{'SOCS3', 'suppressor of cytokine signaling 3'}	{'pyrimidine'}
+38.0	"{'""125(OH)2D3""', 'Calcitriol', 'calcitriol', '""125-dihydroxyvitamin D3""'}"	{'hepatic fibrosis', 'liver fibrosis', 'Liver Fibrosis Via', 'Liver Fibrosis', 'fibrosis Liver fibrosis'}
+11.0	{'HRI'}	{'L-proline', 'proline'}
+51.0	{'p21', 'CDKN1A'}	{'CO2', 'Co2', 'carbon dioxide', 'Carbon dioxide'}
+20.0	{'Mrc1', 'macrophage mannose receptor 1', 'MRC 1/5', 'CD206'}	{'EDTA', 'Ethylenediaminetetraacetic acid'}
+3.0	{'TRAF2', 'TNFR-associated factor 2'}	{'Fas'}
+25.0	{'nsP1', 'nsp1'}	{'Arg I', 'Arg-C', 'Arg'}
+3.0	{'TCR'}	{'Su J', 'Su-Yin Zi-Su Folium', 'Su-Zi', 'Su', 'Su C'}
+18.0	{'cig'}	{'tetraspanin'}
+8.0	{'mammalian target of rapamycin', 'mechanistic target of rapamycin', 'mTOR', 'mammalian target-of-rapamycin', 'mTor'}	{'Tinzaparin', 'tinzaparin'}
+84.0	{'CXCL1', 'Cxcl1'}	{'water', 'Water'}
+48.0	{'ISG15', 'mISG15'}	{'Carbon', 'C', 'carbon'}
+11.0	{'CypB'}	{'paraformaldehyde'}
+3.0	{'HCAP'}	{'Met'}
+2.0	{'C3a anaphylatoxin', 'C3a', 'complement c3', 'C3', 'complement C3', 'complement 3', 'C3 and C7'}	"{'""2\'-hydroxy""'}"
+167.0	{'ALB', 'Alb', 'albumin', 'Albumin', 'Alb 42Bil 7INR 1', 'serum albumin', 'HSA', 'albumin lactate dehydrogenase'}	{'Tween 20', 'polysorbate 80', 'Tween'}
+79.0	{'hydrogen peroxide', 'Hydrogen peroxide', 'Hydrogen Peroxide', 'H2O2'}	{'TLR', 'TLR3', 'Toll-like receptor 3', 'Toll-like receptor (TLR) 3', 'Toll-like receptor-3', 'TLR-3', 'toll-like receptor 3', 'Toll-Like Receptor 3'}
+80.0	{'Leucine', 'leucine', 'di-leucine', 'Leu'}	{'TH2', 'Th2'}
+3.0	{'RoC', 'Ro'}	{'RSK1', 'p90RSK', 'p90RSK1', 'p90RSK-1'}
+20.0	"{'""2780 NGS""', '""2780 KR003452""'}"	{'CD11b'}
+15.0	"{'S60', '""55 C-60 C""', 'O 60', '""<60 F""', 'VP60', '""60 C""'}"	{'eukaryotic translation initiation factor 4E', 'eukaryotic initiation factor 4E', 'eIF4E'}
+222.0	{'N', 'Nitrogen', 'nitrogen'}	{'IL-4', 'IL4'}
+17.0	{'Ox'}	{'MIP1alpha', 'macrophage inflammatory protein (MIP)-1A', 'CCL3', 'MIP-1A', 'MIP1A', 'macrophage inflammatory protein (MIP)1A', 'macrophage inflammatory protein 1A', 'macrophage inflammatory protein 1alpha', 'MIP1A/B', 'macrophage inflammatory protein-1alpha', 'MIP1-alpha', 'MIP-1alpha', 'Ccl3', 'macrophage Inflammatory protein 1alpha', 'MIP-1beta', 'macrophage inflammatory protein 1-alpha', 'MIP1-a', 'macrophage inflammatory protein-1A', 'macrophage inflammatory protein 1 alpha', 'macrophage inflammatory protein (MIP)-1alpha', 'CCL-3', 'MIP1a', 'MIP1beta', 'MIP-1a'}
+23.0	{'Arginine', 'arginine', 'arginines'}	{'HE1'}
+18.0	{'Hydroxy-Chloroquine', '(hydroxy-) chloroquine', 'HCQs', '(hydroxy) chloroquine', 'HDQ', 'Hydroxy Chloroquine sulphate', 'Hydroxy Chloroquine', '(Hydroxy)-Chloroquine', 'Hydroxychloroquine Sulfate', 'Plaquenil', 'HYDROXYCHLOROQUINE', 'hydroxychloroquine', '(hydroxy)chloroquine', 'Hydroxychloroquine sulphate', 'HCQ+', 'HQ', 'hydroxychloroquine sulphate', '-hydroxy-chloroquine', 'HCHL', 'HCQ +', 'HCQ', ') Hydroxychloroquine', 'Hydroxychloroquine sulfate', '-hydroxychloroquine', 'HCQ sulfate', 'hydroxy chloroquine', 'Hydroxychloroquine', 'hydroxychloroquine sulfate', 'Hydroxy-chloroquine', 'hydroxy-chloroquine', 'plaquenil'}	{'TLR-5', 'TLR5'}
+5.0	{'HBeAg'}	{'ORF2'}
+2.0	{'pyrimidine'}	{'SOCS3', 'suppressor of cytokine signaling 3'}
+38.0	{'hepatic fibrosis', 'liver fibrosis', 'Liver Fibrosis Via', 'Liver Fibrosis', 'fibrosis Liver fibrosis'}	"{'""125(OH)2D3""', 'Calcitriol', 'calcitriol', '""125-dihydroxyvitamin D3""'}"
+11.0	{'L-proline', 'proline'}	{'HRI'}
+51.0	{'CO2', 'Co2', 'carbon dioxide', 'Carbon dioxide'}	{'p21', 'CDKN1A'}
+20.0	{'EDTA', 'Ethylenediaminetetraacetic acid'}	{'Mrc1', 'macrophage mannose receptor 1', 'MRC 1/5', 'CD206'}
+3.0	{'Fas'}	{'TRAF2', 'TNFR-associated factor 2'}
+25.0	{'Arg I', 'Arg-C', 'Arg'}	{'nsP1', 'nsp1'}
+3.0	{'Su J', 'Su-Yin Zi-Su Folium', 'Su-Zi', 'Su', 'Su C'}	{'TCR'}
+18.0	{'tetraspanin'}	{'cig'}
+8.0	{'Tinzaparin', 'tinzaparin'}	{'mammalian target of rapamycin', 'mechanistic target of rapamycin', 'mTOR', 'mammalian target-of-rapamycin', 'mTor'}
+84.0	{'water', 'Water'}	{'CXCL1', 'Cxcl1'}
+48.0	{'Carbon', 'C', 'carbon'}	{'ISG15', 'mISG15'}
+11.0	{'paraformaldehyde'}	{'CypB'}
+3.0	{'Met'}	{'HCAP'}
+2.0	"{'""2\'-hydroxy""'}"	{'C3a anaphylatoxin', 'C3a', 'complement c3', 'C3', 'complement C3', 'complement 3', 'C3 and C7'}
+167.0	{'Tween 20', 'polysorbate 80', 'Tween'}	{'ALB', 'Alb', 'albumin', 'Albumin', 'Alb 42Bil 7INR 1', 'serum albumin', 'HSA', 'albumin lactate dehydrogenase'}

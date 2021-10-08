@@ -1,0 +1,11 @@
+start testing with iteration =  100
+test dataset ground truth with ones =  37 37
+True positive 21
+True negative 20
+False positive 17
+False negative 16
+Accuracy =  0.5540540540540541
+Precision =  0.5526315789473685
+Recall =  0.5675675675675675
+**** Iter 999    Val ROC 0.536, AP: 0.545, F1 :0.560, EO 0.029 ****
+

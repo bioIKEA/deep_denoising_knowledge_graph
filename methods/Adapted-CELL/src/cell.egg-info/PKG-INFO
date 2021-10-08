@@ -1,0 +1,14 @@
+Metadata-Version: 1.1
+Name: cell
+Version: 0.0.1.dev0
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: Holger Heidrich
+Author-email: holger.heidrich@uni-tuebingen.de
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python

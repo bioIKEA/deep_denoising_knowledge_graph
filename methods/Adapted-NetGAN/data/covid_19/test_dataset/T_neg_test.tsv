@@ -1,0 +1,40 @@
+1.0	{'GSN'}	{'Arg', 'Arginine', 'R', 'arginine'}
+1.0	{'il-8', 'IL-8'}	{'SLA'}
+0.0	{'PAR1'}	{'carboxymethyl'}
+1.0	{'IL-18'}	{'peroxynitrites', 'peroxynitrite'}
+0.0	{'myosin'}	{'SSO225', 'SSO2121', 'SSO2071', 'SSO0192'}
+0.0	{'GP2', 'GP12', 'Gp2'}	"{'O88', '""88-94 amino acids""'}"
+0.0	{'Abs', 'MAbs', 'mAbs'}	{'bis'}
+0.0	{'rupintrivir', 'Ruprintrivir', 'ruprintrivir', 'AG7088'}	{'SARS'}
+0.0	{'Sirtuin 1'}	{'CR'}
+0.0	{'CD33', 'gp67'}	{'Bevacizumab', 'bevacizumab'}
+1.0	{'IRF'}	{'IFITM-2', 'IFITM-3', 'sulfate  IFITM Interferon'}
+0.0	{'peroxisome proliferator-activated receptor gamma', 'PPARgamma', 'PPAR-gamma'}	{'ornithine', 'L-ornithine'}
+0.0	{'HC10'}	{'JQ245968', 'JQ989270', 'JQ316196', 'JQ065048', 'JQ065042', 'JQ065043', 'JQ821392', 'JQ989269', 'JQ240471', 'JQ023161', 'JQ065044'}
+1.0	{'TMPRSS11A'}	{'acrylamide'}
+0.0	{'pol', 'Pol', 'replicase 1a or pol'}	{'Nexterone', 'amiodarone', 'Amiodarone'}
+0.0	{'angiotensin II', 'ANG II'}	{'fosinopril'}
+0.0	{'TGF- beta', 'TGFalpha', 'tgf-beta', 'TGFbeta', 'TGF-beta', 'Tgf-beta', 'TFG-beta'}	{'morphine', 'Morphine'}
+0.0	{'jama', 'Jama', 'JAMA'}	"{'""6-thioguanine""', '""6TG""', '""6-TG""', 'TG'}"
+0.0	{'RPS6', 'S-6'}	"{'""2B9B""', 'boron', 'Tacribe                           B                             TCRV', 'ACAbB 127857 TDVRYKDDMYHFFCPAIQAQ', 'B08006', 'VERY  B', '""4B""', 'IFV-B', 'ACAbB 133630', 'Balsacone B', 'flavoyadorinin-B', 'Schweiger B', 'LAmB', 'B11662', '""6B""', 'ACAbB 131879'}"
+1.0	{'prostaglandin D2', 'PGD2'}	{'acetic acid'}
+1.0	{'Arg', 'Arginine', 'R', 'arginine'}	{'GSN'}
+1.0	{'SLA'}	{'il-8', 'IL-8'}
+0.0	{'carboxymethyl'}	{'PAR1'}
+1.0	{'peroxynitrites', 'peroxynitrite'}	{'IL-18'}
+0.0	{'SSO225', 'SSO2121', 'SSO2071', 'SSO0192'}	{'myosin'}
+0.0	"{'O88', '""88-94 amino acids""'}"	{'GP2', 'GP12', 'Gp2'}
+0.0	{'bis'}	{'Abs', 'MAbs', 'mAbs'}
+0.0	{'SARS'}	{'rupintrivir', 'Ruprintrivir', 'ruprintrivir', 'AG7088'}
+0.0	{'CR'}	{'Sirtuin 1'}
+0.0	{'Bevacizumab', 'bevacizumab'}	{'CD33', 'gp67'}
+1.0	{'IFITM-2', 'IFITM-3', 'sulfate  IFITM Interferon'}	{'IRF'}
+0.0	{'ornithine', 'L-ornithine'}	{'peroxisome proliferator-activated receptor gamma', 'PPARgamma', 'PPAR-gamma'}
+0.0	{'JQ245968', 'JQ989270', 'JQ316196', 'JQ065048', 'JQ065042', 'JQ065043', 'JQ821392', 'JQ989269', 'JQ240471', 'JQ023161', 'JQ065044'}	{'HC10'}
+1.0	{'acrylamide'}	{'TMPRSS11A'}
+0.0	{'Nexterone', 'amiodarone', 'Amiodarone'}	{'pol', 'Pol', 'replicase 1a or pol'}
+0.0	{'fosinopril'}	{'angiotensin II', 'ANG II'}
+0.0	{'morphine', 'Morphine'}	{'TGF- beta', 'TGFalpha', 'tgf-beta', 'TGFbeta', 'TGF-beta', 'Tgf-beta', 'TFG-beta'}
+0.0	"{'""6-thioguanine""', '""6TG""', '""6-TG""', 'TG'}"	{'jama', 'Jama', 'JAMA'}
+0.0	"{'""2B9B""', 'boron', 'Tacribe                           B                             TCRV', 'ACAbB 127857 TDVRYKDDMYHFFCPAIQAQ', 'B08006', 'VERY  B', '""4B""', 'IFV-B', 'ACAbB 133630', 'Balsacone B', 'flavoyadorinin-B', 'Schweiger B', 'LAmB', 'B11662', '""6B""', 'ACAbB 131879'}"	{'RPS6', 'S-6'}
+1.0	{'acetic acid'}	{'prostaglandin D2', 'PGD2'}

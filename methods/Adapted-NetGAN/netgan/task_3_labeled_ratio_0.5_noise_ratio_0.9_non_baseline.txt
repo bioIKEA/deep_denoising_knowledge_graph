@@ -1,0 +1,66 @@
+current ROC =  0.6278371367014027
+ current F1 =  0.6588590857574613
+ current Precision =  0.528645043952713
+ current Recall = 0.8741854636591478
+ accuracy = 0.5473684210526316
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.9_with_with_weight_0.6_1.txt-------
+Average ROC =  0.6278371367014027
+ Average F1 =  0.6588590857574613 
+ Average Precision =  0.528645043952713 
+ Average Recall = 0.8741854636591478 
+current ROC =  0.6227899322240438
+ current F1 =  0.6510297482837529
+ current Precision =  0.5253924284395198
+ current Recall = 0.8556390977443609
+ accuracy = 0.5413533834586466
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.9_with_with_weight_0.4_2.txt-------
+Average ROC =  0.6227899322240438
+ Average F1 =  0.6510297482837529 
+ Average Precision =  0.5253924284395198 
+ Average Recall = 0.8556390977443609 
+current ROC =  0.6304716678915334
+ current F1 =  0.6476602438065278
+ current Precision =  0.5328372694920738
+ current Recall = 0.825563909774436
+ accuracy = 0.5508771929824562
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.9_with_with_weight_0.2_3.txt-------
+Average ROC =  0.6304716678915334
+ Average F1 =  0.6476602438065278 
+ Average Precision =  0.5328372694920738 
+ Average Recall = 0.825563909774436 
+current ROC =  0.6182977493859962
+ current F1 =  0.6450366937041329
+ current Precision =  0.5246622683003456
+ current Recall = 0.8370927318295739
+ accuracy = 0.5393483709273182
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.9_with_with_weight_1_1.txt-------
+Average ROC =  0.6182977493859962
+ Average F1 =  0.6450366937041329 
+ Average Precision =  0.5246622683003456 
+ Average Recall = 0.8370927318295739 
+current ROC =  0.6377944862155388
+ current F1 =  0.6527084133691893
+ current Precision =  0.5291186546247275
+ current Recall = 0.8516290726817043
+ accuracy = 0.5468671679197995
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.9_with_with_weight_0.8_2.txt-------
+Average ROC =  0.6377944862155388
+ Average F1 =  0.6527084133691893 
+ Average Precision =  0.5291186546247275 
+ Average Recall = 0.8516290726817043 
+current ROC =  0.6285316047009755
+ current F1 =  0.6474146341463415
+ current Precision =  0.5300319488817892
+ current Recall = 0.8315789473684211
+ accuracy = 0.5471177944862156
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.9_with_with_weight_0.8_1.txt-------
+Average ROC =  0.6285316047009755
+ Average F1 =  0.6474146341463415 
+ Average Precision =  0.5300319488817892 
+ Average Recall = 0.8315789473684211 

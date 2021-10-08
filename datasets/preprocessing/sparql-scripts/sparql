@@ -1,0 +1,66 @@
+1. query gene and Chemical
+PREFIX pmc: <https://www.ncbi.nlm.nih.gov/pmc/articles#>
+# (count(?pmc_id0) as ?count)
+SELECT ?type0  ?pmc_id0 (sample(?text0) as ?text_example0) ?type02 ?pmc_id02 (sample (?text02) as ?text_example02) (count(?pmc) as ?count)   WHERE {
+    SELECT distinct ?pmc ?pmc_id0 ?type0 ?text0 ?pmc_id02 ?type02 ?text02  WHERE {
+        # set first type as Gene
+        bind ("Gene" as ?type0)
+        
+        # set second type as Chemical
+        bind ("Chemical" as ?type02)
+        
+        ?pmc pmc:annotations
+        [pmc:text ?text0; pmc:infons [pmc:type ?type0; pmc:identifier ?pmc_id0] ] ,  # match first type
+        [pmc:text ?text02; pmc:infons [pmc:type ?type02; pmc:identifier ?pmc_id02]] . # match second type
+
+        FILTER(?pmc_id0 != "-")
+        FILTER(?pmc_id02 != "-")
+        
+        #Chemical
+        #Gene
+        #Mutation
+
+    }
+    GROUP BY ?pmc ?pmc_id0 ?type0 ?text0 ?pmc_id02 ?type02 ?text02
+}
+GROUP BY ?pmc_id0 ?type0  ?pmc_id02 ?type02
+ORDER BY desc(?count )
+
+
+
+2. query disease related data:
+PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntaxns#>
+PREFIX fhir: <http://hl7.org/fhir/>
+PREFIX pmc: <https://www.ncbi.nlm.nih.gov/pmc/articles#>
+SELECT distinct ?pmc_id0 ?text0 ?pmc_id1 ?text1
+(count(?text1) as ?count) WHERE {
+?pmc pmc:annotations
+[pmc:id ?id0; pmc:text ?text0; pmc:infons
+[pmc:type ?type0; pmc:identifier ?pmc_id0] ] .
+
+#Chemical
+#Gene
+#Mutation
+   
+FILTER ((?type0 = "Chemical")) .{
+    select * where{
+        ?pmc pmc:annotations
+        [pmc:id ?id1; pmc:text ?text1; pmc:infons
+        [pmc:type ?type1; pmc:identifier ?pmc_id1]].
+        FILTER ((?type1 = "Disease") && (
+            contains(lcase(str(?text1)), "coronavirus") ||
+            contains(lcase(str(?text1)), "sars") ||
+            contains (lcase(str(?text1)), "covid-19") ||
+            contains (lcase(str(?text1)), "pneumonia") ||
+            contains(lcase(str(?text1)), "fever") ||
+            contains (lcase(str(?text1)), "fibrosis") ||
+            contains (lcase(str(?text1)),"diarrhea") ||
+            contains (lcase(str(?text1)),"bronchitis") ||
+            contains (lcase(str(?text1)), "ebola") ||
+            contains (lcase(str(?text1)), "influenze") ||
+            contains(lcase(str(?text1)), "zika"))).
+        }
+    }
+}
+Group by ?pmc_id0 ?text0 ?pmc_id1 ?text1
+Orderby DESC(?count)

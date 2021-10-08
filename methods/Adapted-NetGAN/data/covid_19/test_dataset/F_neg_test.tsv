@@ -1,0 +1,46 @@
+0.0	{'HBGA'}	{'monosaccharides', 'monosaccharide'}
+0.0	{'IFN-alpha1b', 'IFN-alpha-1b', 'interferon (IFN)-alpha', 'IFN-alpha', 'IFN-beta1', 'interferon (IFN)', 'Interferon', 'IFNalpha', 'IFN- alpha', 'alpha interferon (IFN-alpha', 'Ifn-beta1', 'interferon', 'Interferon Alpha-1b', 'Interferon (IFN) alpha', 'IFN-beta', 'Interferon-alpha 1', 'interferon alpha-1b', 'IFN', 'interferon alpha1b', 'type 2 pneumocyte type 1 interferon (IFN)', 'IFNbeta1', 'Ribavirin and IFN', 'IFNbeta', 'IFN (IFN-lambda', 'IFNalpha-1b'}	{'SARS-Cov'}
+0.0	{'calmodulin', 'CALM1'}	{'SARS'}
+1.0	{'MDM2'}	{'thioester'}
+0.0	{'IGF-1'}	{'parathyroid hormone'}
+0.0	{'proteinase'}	{'SARS-CoV'}
+0.0	{'TBK1', 'NAK', 'numb-associated kinase'}	{'SARS coronavirus M'}
+0.0	{'HLA-A'}	{'SARS'}
+1.0	{'alpha1-antitrypsin', 'alpha1-AT'}	{'Idiopathic pneumonia syndrome', 'idiopathic interstitial pneumonias', 'idiopathic pneumonia syndrome', 'idiopathic interstitial pneumonia', 'Hypersensitivity pneumonitis 2 Sarcoidosis 3 Idiopathic interstitial pneumonias'}
+0.0	{'Pirfenidone', 'pirfenidone'}	{'idiopathic pulmonary fibrosis'}
+0.0	{'TLR9'}	{'Streptococcus pneumonia'}
+0.0	{'heparin-binding (HB)-EGF', 'HB-EGF'}	{'lysophosphatidic acid'}
+0.0	{'alpha-glucosidase'}	{'Chloramphenicol', 'chloromycetin', 'chloramphenicol', 'Chloramphenicol Acetyl'}
+0.0	{'RPA'}	{'sulfur'}
+0.0	{'RTP'}	{'sodium sulfite'}
+0.0	{'TPC1-2'}	{'dihydropyridines'}
+1.0	{'CD209L', 'L-SIGN', 'CLEC4M'}	{'SARS-CoV'}
+1.0	{'C10'}	{'vinblastine', 'Vinblastine'}
+1.0	{'CXCL10'}	{'saxagliptin'}
+1.0	{'ACE', 'Ace'}	{'pulmonary fibrosis'}
+0.0	{'AMPK'}	{'RAD001', 'EVR', 'Everolimus', 'everolimus', 'Certican'}
+1.0	{'Akt'}	{'Propofol', 'propofol'}
+0.0	{'ALS', 'als 1', 'SOD', 'Superoxide dismutase', 'superoxide dismutase'}	{'SARS-Associated Coronavirus'}
+0.0	{'monosaccharides', 'monosaccharide'}	{'HBGA'}
+0.0	{'SARS-Cov'}	{'IFN-alpha1b', 'IFN-alpha-1b', 'interferon (IFN)-alpha', 'IFN-alpha', 'IFN-beta1', 'interferon (IFN)', 'Interferon', 'IFNalpha', 'IFN- alpha', 'alpha interferon (IFN-alpha', 'Ifn-beta1', 'interferon', 'Interferon Alpha-1b', 'Interferon (IFN) alpha', 'IFN-beta', 'Interferon-alpha 1', 'interferon alpha-1b', 'IFN', 'interferon alpha1b', 'type 2 pneumocyte type 1 interferon (IFN)', 'IFNbeta1', 'Ribavirin and IFN', 'IFNbeta', 'IFN (IFN-lambda', 'IFNalpha-1b'}
+0.0	{'SARS'}	{'calmodulin', 'CALM1'}
+1.0	{'thioester'}	{'MDM2'}
+0.0	{'parathyroid hormone'}	{'IGF-1'}
+0.0	{'SARS-CoV'}	{'proteinase'}
+0.0	{'SARS coronavirus M'}	{'TBK1', 'NAK', 'numb-associated kinase'}
+0.0	{'SARS'}	{'HLA-A'}
+1.0	{'Idiopathic pneumonia syndrome', 'idiopathic interstitial pneumonias', 'idiopathic pneumonia syndrome', 'idiopathic interstitial pneumonia', 'Hypersensitivity pneumonitis 2 Sarcoidosis 3 Idiopathic interstitial pneumonias'}	{'alpha1-antitrypsin', 'alpha1-AT'}
+0.0	{'idiopathic pulmonary fibrosis'}	{'Pirfenidone', 'pirfenidone'}
+0.0	{'Streptococcus pneumonia'}	{'TLR9'}
+0.0	{'lysophosphatidic acid'}	{'heparin-binding (HB)-EGF', 'HB-EGF'}
+0.0	{'Chloramphenicol', 'chloromycetin', 'chloramphenicol', 'Chloramphenicol Acetyl'}	{'alpha-glucosidase'}
+0.0	{'sulfur'}	{'RPA'}
+0.0	{'sodium sulfite'}	{'RTP'}
+0.0	{'dihydropyridines'}	{'TPC1-2'}
+1.0	{'SARS-CoV'}	{'CD209L', 'L-SIGN', 'CLEC4M'}
+1.0	{'vinblastine', 'Vinblastine'}	{'C10'}
+1.0	{'saxagliptin'}	{'CXCL10'}
+1.0	{'pulmonary fibrosis'}	{'ACE', 'Ace'}
+0.0	{'RAD001', 'EVR', 'Everolimus', 'everolimus', 'Certican'}	{'AMPK'}
+1.0	{'Propofol', 'propofol'}	{'Akt'}
+0.0	{'SARS-Associated Coronavirus'}	{'ALS', 'als 1', 'SOD', 'Superoxide dismutase', 'superoxide dismutase'}

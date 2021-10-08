@@ -1,0 +1,55 @@
+current ROC =  0.6836641729637376
+ current F1 =  0.666796722590714
+ current Precision =  0.5458320025550942
+ current Recall = 0.8566416040100251
+ accuracy = 0.5719298245614035
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.75_with_with_weight_1_1.txt-------
+Average ROC =  0.6836641729637376
+ Average F1 =  0.666796722590714 
+ Average Precision =  0.5458320025550942 
+ Average Recall = 0.8566416040100251 
+current ROC =  0.6795692238114082
+ current F1 =  0.6727876538386404
+ current Precision =  0.5512163892445583
+ current Recall = 0.8631578947368421
+ accuracy = 0.5802005012531328
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.75_with_with_weight_0.8_2.txt-------
+Average ROC =  0.6795692238114082
+ Average F1 =  0.6727876538386404 
+ Average Precision =  0.5512163892445583 
+ Average Recall = 0.8631578947368421 
+current ROC =  0.6917825893053435
+ current F1 =  0.6752679634775705
+ current Precision =  0.5589878409464344
+ current Recall = 0.8526315789473684
+ accuracy = 0.5899749373433584
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.75_with_with_weight_0.6_1.txt-------
+Average ROC =  0.6917825893053435
+ Average F1 =  0.6752679634775705 
+ Average Precision =  0.5589878409464344 
+ Average Recall = 0.8526315789473684 
+current ROC =  0.6827841533658707
+ current F1 =  0.6703888334995015
+ current Precision =  0.5566225165562914
+ current Recall = 0.8426065162907268
+ accuracy = 0.5857142857142857
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.75_with_with_weight_0.4_1.txt-------
+Average ROC =  0.6827841533658707
+ Average F1 =  0.6703888334995015 
+ Average Precision =  0.5566225165562914 
+ Average Recall = 0.8426065162907268 
+current ROC =  0.6816325274338729
+ current F1 =  0.663286004056795
+ current Precision =  0.5570698466780238
+ current Recall = 0.8195488721804511
+ accuracy = 0.5839598997493735
+
+-------non-baseline_train_ratio_0.5_noise_ratio_0.75_with_with_weight_0.2_1.txt-------
+Average ROC =  0.6816325274338729
+ Average F1 =  0.663286004056795 
+ Average Precision =  0.5570698466780238 
+ Average Recall = 0.8195488721804511 
